@@ -1,0 +1,69 @@
+{
+    "title": "Hello Im Saeed",
+    "subtitle": "Full stack | open source ",
+    "links": {
+        "stackoverflow": "https://youtube.com/shorts/czf6uqAmkk8?feature=share",
+        "twitter": "https://twitter.com/saeedmayvan/status/1565534979295150080?s=09",
+        "facebook": "https://www.facebook.com/100057057580626/posts/pfbid0MT9aAY8tmn6LB6FZwhjeA2SeXushYCVp9BSMstSsF7vC38VczWzxVus96K8pxeP8l/?app=fbl",
+        "instagram": "https://www.instagram.com/p/Ch2n6nwLInI/?igshid=MDJmNzVkMjY="
+
+    },
+    "sections": [
+        {
+            "title": "about",
+            "items" : [
+                {
+                    "type" : "p",
+                    "content" : "Hello, my name is Saeed Safai Mayvan, I am a computer engineering student at Bojnordash University and I am interested in front-end programming."
+                    
+                }
+            ]
+        },
+        {
+            "title": "skills",
+            "items" : [
+                {
+                    "type" : "card",
+                    "content" : 
+                    {
+                        "image" :"https://img.icons8.com/ios/250/react-native--v1.png",
+                        "title" : "react"
+
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : 
+                    {
+                        "image" :"https://img.icons8.com/ios/250/css3.png",
+                        "title" : "css"
+
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : 
+                    {
+                        "image" :"https://img.icons8.com/ios/250/html-5--v1.png",
+                        "title" : "html"
+
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : 
+                    {
+                        "image" :"https://img.icons8.com/pulsar-line/250/javascript.png",
+                        "title" : "javascript"
+
+                    }
+                }
+            ]
+        }
+    ],
+    "icons":{
+        "down":"../image/down.png",
+        "up":"../image/up.png",
+        "changcolor":"../image/changColor.png"
+    }
+}

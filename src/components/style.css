@@ -1,0 +1,32 @@
+
+  .icons-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h3{
+    size: 3rem;
+  }
+  
+  img{
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  h4{
+    margin: 0;
+    font-size: 20px;
+  }
+  
+  .card:hover{
+    box-shadow: 0 18px 28px rgba(0,0,0,0.12), 0 11px 12px rgba(0,0,0,12);
+  } 
+ 
+  p{
+    padding-left:40px ;
+    padding-right: 40px;
+    text-align: left;
+  }
+  
